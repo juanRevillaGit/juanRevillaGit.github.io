@@ -1,1 +1,11 @@
-juanRevillaGit.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=index.html" />
+    <title>Redirigiendo...</title>
+</head>
+<body>
+    <p>Redirigiendo a la página principal...</p>
+</body>
+</html>
